@@ -574,7 +574,7 @@ import {
   │ *4.* Fun Menu
   │ *5.* Reaction Menu
   │ *6.* Downloader Menu
-  │ *7.* Group Menu
+  │ *7.* Game Menu
   │ *8.* Logo Menu
   │ *9.* Sticker Menu
   │ *10.* Audio Menu
