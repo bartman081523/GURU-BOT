@@ -574,7 +574,7 @@ import {
   │ *4.* Fun Menu
   │ *5.* Reaction Menu
   │ *6.* Downloader Menu
-  │ *7.* Game Menu
+  │ *7.* Group Menu
   │ *8.* Logo Menu
   │ *9.* Sticker Menu
   │ *10.* Audio Menu
@@ -641,7 +641,7 @@ import {
       }, { quoted:fcontact });
       } else if (choice === "7") {
         await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg' },
-        caption: groupmenu
+        caption: gamemenu
       }, { quoted:fcontact });
       } else if (choice === "8") {
         await conn.sendMessage(m.chat, { image: { url: 'https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg' },
